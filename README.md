@@ -9,4 +9,4 @@ After many trials, it was found that it was very difficult to affect core body t
 
 Much of the work done by SPARC involved construction of the control circuitry for the thermoelectric compoonents. The final design report with its details has been attached to this repository.
 
-Auburn placed 2nd place in competition for its design.
+Auburn placed 2nd place in competition for its design. Due to time contraints, much of the design was not able to be fleshed out before presentation in Boston.
