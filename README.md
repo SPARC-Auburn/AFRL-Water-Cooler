@@ -8,3 +8,5 @@ http://www.afrlchallenge.com/theStakes.aspx?challengeID=12
 After many trials, it was found that it was very difficult to affect core body temperature with external sources, so the team worked to develop a method of cooling drinking water without the need for a fridge - since most water available to soliders in the field would be well above 100 degrees Farenheit. 
 
 Much of the work done by SPARC involved construction of the control circuitry for the thermoelectric compoonents. The final design report with its details has been attached to this repository.
+
+Auburn placed 2nd place in competition for its design.
